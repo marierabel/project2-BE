@@ -2025,7 +2025,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic communication device that delivers headlines from the Albatross Press."
     },
     {
@@ -2033,7 +2033,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A talking crystal ball that is programmed to recall information stored inside."
     },
     {
@@ -2041,7 +2041,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A book of 10 magic stamps that reveals interesting local information."
     },
     {
@@ -2049,7 +2049,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic sword that can teleport back to its user's hand."
     },
     {
@@ -2057,7 +2057,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A small wooden box that can expand into a real, working sloop."
     },
     {
@@ -2065,7 +2065,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A line of magical shapeshifting garments that automatically find a perfect fit for their wearer."
     },
     {
@@ -2073,15 +2073,15 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magical networked codex that duplicates entries from linked journals."
     },
     {
       "name": "Brell's Tent in a Tin",
-      "rarity": "common",
+      "rarity": "gear",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic tin canister that can deploy a large tent."
     },
     {
@@ -2089,7 +2089,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic notebook that's risky to read, but can provide great benefits."
     },
     {
@@ -2097,7 +2097,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic scabbard that can make weapons appear invisible."
     },
     {
@@ -2105,15 +2105,15 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic map that can respond to questions and provide useful information."
     },
     {
       "name": "Friend Flute",
-      "rarity": "common",
+      "rarity": "gear",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic whistle that knows who your friends are."
     },
     {
@@ -2121,7 +2121,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A pouch of magic glitter that dispels invisibility."
     },
     {
@@ -2129,7 +2129,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic stuffed toy goat that turns into a life-sized illusory goat."
     },
     {
@@ -2137,15 +2137,15 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A potion that heals you."
     },
     {
       "name": "Kiln Gauze",
-      "rarity": "common",
+      "rarity": "gear",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A container of magic gauze used to repair broken metal weapons."
     },
     {
@@ -2153,7 +2153,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic glass orb used like a camera."
     },
     {
@@ -2161,7 +2161,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic lyre that guides its user's hands to produce a beautiful song."
     },
     {
@@ -2169,7 +2169,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A vial filled with magic liquid that has unpredictable effects."
     },
     {
@@ -2177,7 +2177,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A bag of marbles that seeks out creatures to trip."
     },
     {
@@ -2185,7 +2185,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "This is a pipe that, when smoked, creates a thick magical fog."
     },
     {
@@ -2193,7 +2193,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A small dropper filled with magic liquid that can permanently bond two things together."
     },
     {
@@ -2201,7 +2201,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A small box with a magic dish used to detect poison."
     },
     {
@@ -2209,7 +2209,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A sentient magic whip that loves witty one-liners."
     },
     {
@@ -2217,7 +2217,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic battering ram that can shatter wooden doors."
     },
     {
@@ -2225,7 +2225,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic book that automatically senses and records the most commonly-used name of a creature that passes nearby."
     },
     {
@@ -2233,7 +2233,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 2,
+      "aCost": 2,
       "description": "A compact magic crossbow."
     },
     {
@@ -2241,15 +2241,15 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 2,
+      "aCost": 2,
       "description": "An enchanted horn that can send messages far and wide."
     },
     {
       "name": "Skycaller Amulets",
-      "rarity": "common",
+      "rarity": "gear",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "Pairs of magic amulets that allow their owners to communicate with each other."
     },
     {
@@ -2257,7 +2257,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "A heavy metal gauntlet that allows the wearer to prevent weapon attacks."
     },
     {
@@ -2265,7 +2265,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic candle that detects illusions."
     },
     {
@@ -2273,7 +2273,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A weapon with a little extra damage."
     },
     {
@@ -2281,7 +2281,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A metal rod that sends the bearer on an impossible quest."
     },
     {
@@ -2289,7 +2289,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic bow that guides its user's hand."
     },
     {
@@ -2297,7 +2297,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "Magic tickets that can transform into forgeries."
     },
     {
@@ -2305,7 +2305,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A flying broom with its own agenda."
     },
     {
@@ -2313,7 +2313,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A set of linked magic glasses that share perspectives."
     },
     {
@@ -2321,7 +2321,7 @@
       "rarity": "common",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A dark crystal orb that explodes."
     },
     {
@@ -2329,7 +2329,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic scepter that casts a chilling spell."
     },
     {
@@ -2337,7 +2337,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "An edged weapon forged by a conniving demon."
     },
     {
@@ -2345,7 +2345,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A translucent magic bracelet that can detect spirits."
     },
     {
@@ -2353,7 +2353,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "An unusually large belt that makes you feel unusually strong."
     },
     {
@@ -2361,7 +2361,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A giant hammer imbued with magic force that accelerates the weapon as it is swung."
     },
     {
@@ -2369,7 +2369,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A bag of luminescent magic pearls that explode with force."
     },
     {
@@ -2377,7 +2377,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 2,
+      "aCost": 2,
       "description": "A greathammer imbued with radiant light."
     },
     {
@@ -2385,7 +2385,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "A small magic tally counter that senses nearby deaths."
     },
     {
@@ -2393,7 +2393,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A silvered short blade that grants the wielder immunity against mind magic."
     },
     {
@@ -2401,7 +2401,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A longsword forged in the flame of a dragon's breath."
     },
     {
@@ -2409,7 +2409,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic dress that deceptively appears to have no pockets, yet has many."
     },
     {
@@ -2417,7 +2417,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A cloak that makes the wearer undetectable by magic."
     },
     {
@@ -2425,7 +2425,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "The weapon of a banished lich that casts a malevolent aura."
     },
     {
@@ -2433,7 +2433,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A weapon of incredible quality that still bears its maker's mark."
     },
     {
@@ -2441,7 +2441,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A small wooden box that can produce an object of value."
     },
     {
@@ -2449,7 +2449,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic pot that can create a recipe."
     },
     {
@@ -2457,7 +2457,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A stick of chalk that can open a portal."
     },
     {
@@ -2465,7 +2465,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic consumable that bestows a new ability."
     },
     {
@@ -2473,7 +2473,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic wand that fills the wielder with mischievous thoughts."
     },
     {
@@ -2481,7 +2481,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic crystal ball that gives the user a glimpse at the future."
     },
     {
@@ -2489,7 +2489,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "A magic pincushion that can detect family relations."
     },
     {
@@ -2497,7 +2497,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "A snakewood staff that can transform into a viper."
     },
     {
@@ -2505,7 +2505,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic scroll enchanted with a spell."
     },
     {
@@ -2513,7 +2513,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A crystal orb that attracts and traps spirit creatures nearby."
     },
     {
@@ -2521,7 +2521,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic buckler that turns the table on attackers."
     },
     {
@@ -2529,7 +2529,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A broadsword with an envy problem."
     },
     {
@@ -2537,7 +2537,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A sentient magic sword that loves to be used."
     },
     {
@@ -2545,7 +2545,7 @@
       "rarity": "rare",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A sponge with almost no limit to its thirst."
     },
     {
@@ -2553,7 +2553,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 5,
-      "a_cost": 5,
+      "aCost": 5,
       "description": "An obsidian skeleton key that creates a private plane."
     },
     {
@@ -2561,7 +2561,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A pouch filled with seeds that grow into sentient tree creatures."
     },
     {
@@ -2569,7 +2569,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magical dagger that tries to charm nearby creatures."
     },
     {
@@ -2577,7 +2577,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 4,
-      "a_cost": 4,
+      "aCost": 4,
       "description": "A sentient blade that curses whoever picks it up to feel an unquenchable bloodthirst."
     },
     {
@@ -2585,7 +2585,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic cloak that allows an Invoker to commune with the stars."
     },
     {
@@ -2593,7 +2593,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 4,
-      "a_cost": 4,
+      "aCost": 4,
       "description": "A set of magic toy figurines that can come alive to do battle."
     },
     {
@@ -2601,7 +2601,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic bag that can hold an unlimited number of items."
     },
     {
@@ -2609,7 +2609,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 5,
-      "a_cost": 5,
+      "aCost": 5,
       "description": "A pair of tall black boots that cast an aura of leadership."
     },
     {
@@ -2617,7 +2617,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A ring that duplicates spells and reflects them."
     },
     {
@@ -2625,7 +2625,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A weapon handed down through generations that records the deeds of its wielder."
     },
     {
@@ -2633,7 +2633,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 1,
-      "a_cost": 1,
+      "aCost": 1,
       "description": "A cameo brooch that can create an illusory visage."
     },
     {
@@ -2641,7 +2641,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A smooth platinum coin that randomizes a player's role."
     },
     {
@@ -2649,7 +2649,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 5,
-      "a_cost": 5,
+      "aCost": 5,
       "description": "A weathered wooden lute that seeks music through the omniverse."
     },
     {
@@ -2657,7 +2657,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 10,
-      "a_cost": 10,
+      "aCost": 10,
       "description": "A small stone figurine with world-shaking power."
     },
     {
@@ -2665,7 +2665,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A patchwork blanket that offers love and comfort."
     },
     {
@@ -2673,7 +2673,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic wand that imbues the wielder with incredible power."
     },
     {
@@ -2681,7 +2681,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic telescope that carries its wielder through the stars."
     },
     {
@@ -2689,7 +2689,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A sentient map of the stars that loves to pontificate about possibility."
     },
     {
@@ -2697,7 +2697,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A greatsword that gives walking nightmares."
     },
     {
@@ -2705,7 +2705,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 3,
+      "aCost": 3,
       "description": "A crystal crown that projects a major illusion."
     },
     {
@@ -2713,7 +2713,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "An indomitable breastplate that makes the wearer resistant to attacks."
     },
     {
@@ -2721,7 +2721,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 4,
-      "a_cost": 4,
+      "aCost": 4,
       "description": "An ancient bronze shield that lights the fires of independence."
     },
     {
@@ -2729,7 +2729,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic shortblade forged by a malevolent god that reaps souls."
     },
     {
@@ -2737,7 +2737,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic starship that can travel through space and the omniverse."
     },
     {
@@ -2745,7 +2745,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "An iridescent coin that offers eternal paradise."
     },
     {
@@ -2753,7 +2753,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 1,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic pin allowing the wearer to comprehend languages."
     },
     {
@@ -2761,7 +2761,7 @@
       "rarity": "legendary",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic spear that can become a bolt of lightning."
     },
     {
@@ -2769,7 +2769,7 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 9,
-      "a_cost": 9,
+      "aCost": 9,
       "description": "An unimaginably powerful ring that can consume universes."
     },
     {
@@ -2777,7 +2777,7 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "An obsidian ring that allows the bearer to conjure any object into existence."
     },
     {
@@ -2785,7 +2785,7 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 4,
-      "a_cost": 4,
+      "aCost": 4,
       "description": "A 20-sided die that bends the fate of nearby creatures."
     },
     {
@@ -2793,7 +2793,7 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 2,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A humble ring that bestows a terrible and cursed power."
     },
     {
@@ -2801,7 +2801,7 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 9,
-      "a_cost": 9,
+      "aCost": 9,
       "description": "A pocketwatch that can travel through time."
     },
     {
@@ -2809,8 +2809,40 @@
       "rarity": "supreme",
       "damage": 0,
       "cost": 3,
-      "a_cost": 0,
+      "aCost": 0,
       "description": "A magic locket that turns wishes into reality."
+    },
+    {
+      "name": "Lockpicks",
+      "rarity": "gear",
+      "damage": 0,
+      "cost": 0,
+      "aCost": 0,
+      "description": "A set of 5 lockpicks that can be used to try to bypass doors and other things with simple locks"
+    },
+    {
+      "name": "Magic Rope",
+      "rarity": "gear",
+      "damage": 0,
+      "cost": 0,
+      "aCost": 0,
+      "description": "A 50-feet rope that can automitacally coil itself. It can also shrink to the size of a spool of yarn for easy carrying, and expand back to its normal size on its owner's command."
+    },
+    {
+      "name": "Magic Flask",
+      "rarity": "gear",
+      "damage": 0,
+      "cost": 0,
+      "aCost": 0,
+      "description": "A magic flask that automatically replenishes itself with spirit of your choice. (Choose once.)"
+    },
+    {
+      "name": "Magic Candle",
+      "rarity": "gear",
+      "damage": 0,
+      "cost": 0,
+      "aCost": 0,
+      "description": "A powerful candle that can light itself and snuff itself out on its owner's command. It drips wax but never seems to lose any."
     }
   ]
 }
