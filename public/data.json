@@ -1,13 +1,45 @@
 {
   "roles": [
-    { "name": "Fighter", "id": "1" },
-    { "name": "Invoker", "id": "2" },
-    { "name": "Ranger", "id": "3" },
-    { "name": "Naturalist", "id": "4" },
-    { "name": "Doctor", "id": "5" },
-    { "name": "Spy", "id": "6" },
-    { "name": "Magician", "id": "7" },
-    { "name": "Wizard", "id": "8" }
+    {
+      "name": "Fighter",
+      "id": "1",
+      "description": "The Fighter takes charge to meet challenges up close. They are weapon masters and martial artists, relying on their physical might to overcome foes."
+    },
+    {
+      "name": "Invoker",
+      "id": "2",
+      "description": "The Invoker is a battle mage, relying on the force of their ideals. They conjure protective wards, invigorate allies in a pinch, and a smite ennemies with radiance. "
+    },
+    {
+      "name": "Ranger",
+      "id": "3",
+      "description": "The Ranger is an outlander, hunter and skilled navigator, thriving on the fringes of civilizations. They keep faithful pets and have a special bond with beasts."
+    },
+    {
+      "name": "Naturalist",
+      "id": "4",
+      "description": "The Naturalist cahnnels their connection with nature to manipulate the elements, commune with animals, and even transform themselves into wild beasts."
+    },
+    {
+      "name": "Doctor",
+      "id": "5",
+      "description": "The Doctor is a magic scientist who tinkers with the forces of life and death. They reverse (or advance) the effects of damage, disease and decay. "
+    },
+    {
+      "name": "Spy",
+      "id": "6",
+      "description": "The spy is a crafty agent of stealth and experts in the use of magical gadgets, chemicals, traps, disguises, and forgeries."
+    },
+    {
+      "name": "Magician",
+      "id": "7",
+      "description": "The Magician specializes in conjuration and psychic manipulation. From parlor tricks to elaborate deceptions, they are master illusionists, capable of twisting the mind. "
+    },
+    {
+      "name": "Wizard",
+      "id": "8",
+      "description": "The Wizard is a powerful spellcaster with a diverse set of magical abilities. At the height of their power, they can travel to other worlds and transcend their mortal selves."
+    }
   ],
   "abilities": [
     {
