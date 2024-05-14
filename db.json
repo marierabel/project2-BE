@@ -1,9 +1,27 @@
 {
   "characters": [
     {
-      "name": "Guillaume",
       "id": "1",
-      "role": "Barbare"
+      "name": "Guillaume",
+      "surname": "",
+      "age": 0,
+      "height": 0,
+      "role": "Fighter",
+      "qualities1": "",
+      "qualities2": "",
+      "qualities3": "",
+      "accessories1": "",
+      "accessories2": "",
+      "move": "",
+      "origin": "",
+      "culture": "",
+      "belief": "",
+      "flaw": "",
+      "dream": "",
+      "abilities": ["Wild Attack", "Counterattack", "Overpower"],
+      "inventory": ["Lying Lyre", "Magic Potion", "Mischievous Marbles"],
+      "AP": 10,
+      "HP": 10
     }
   ]
 }
