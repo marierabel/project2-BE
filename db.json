@@ -3,7 +3,22 @@
     {
       "name": "Guillaume",
       "id": "1",
-      "role": "Barbare"
+      "role": "Barbare",
+      "age": 20,
+      "height": 190,
+      "qualities1": "Qualitie1",
+      "qualities2": "Qualitie2",
+      "qualities3": "Qualitie3",
+      "accessories1": "accessories1",
+      "accessories2": "accessories2",
+      "move": "move",
+      "origin": "origin",
+      "culture": "culture",
+      "belief": "belief",
+      "flaw": "flaw",
+      "dream": "dream",
+      "abilities": ["Wild Attack", "Provoke"],
+      "inventory": []
     }
   ]
 }
