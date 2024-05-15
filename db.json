@@ -19,37 +19,8 @@
       "belief": "belief",
       "flaw": "flaw",
       "dream": "dream",
-      "abilities": [
-        { "name": "Wild Attack", "description": "", "cost": "", "damage": 0 },
-        { "name": "Counterattack", "description": "", "cost": "", "damage": 0 },
-        { "name": "Overpower", "description": "", "cost": "", "damage": 0 }
-      ],
-      "inventory": [
-        {
-          "name": "Light Trap",
-          "rarity": "common",
-          "damage": 0,
-          "cost": 1,
-          "aCost": 0,
-          "description": "A magic glass orb used like a camera."
-        },
-        {
-          "name": "Magic Potion",
-          "rarity": "common",
-          "damage": 0,
-          "cost": 1,
-          "aCost": 0,
-          "description": "A vial filled with magic liquid that has unpredictable effects."
-        },
-        {
-          "name": "Repeater",
-          "rarity": "common",
-          "damage": 0,
-          "cost": 1,
-          "aCost": 2,
-          "description": "A compact magic crossbow."
-        }
-      ],
+      "abilities": ["Wild Attack", "Counterattack", "Overpower"],
+      "inventory": ["Lying Lyre", "Magic Potion", "Mischievous Marbles"],
       "AP": 10,
       "HP": 10
     }
