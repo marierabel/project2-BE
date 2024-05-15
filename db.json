@@ -2,24 +2,54 @@
   "characters": [
     {
       "id": "1",
+      "author": "",
       "name": "Guillaume",
       "surname": "",
-      "age": 0,
-      "height": 0,
+      "age": 20,
+      "height": 200,
       "role": "Fighter",
-      "qualities1": "",
-      "qualities2": "",
-      "qualities3": "",
-      "accessories1": "",
-      "accessories2": "",
-      "move": "",
-      "origin": "",
-      "culture": "",
-      "belief": "",
-      "flaw": "",
-      "dream": "",
-      "abilities": ["Wild Attack", "Counterattack", "Overpower"],
-      "inventory": ["Lying Lyre", "Magic Potion", "Mischievous Marbles"],
+      "qualities1": "Qualitie1",
+      "qualities2": "Qualitie2",
+      "qualities3": "Qualitie3",
+      "accessories1": "accessories1",
+      "accessories2": "accessories2",
+      "move": "move",
+      "origin": "origin",
+      "culture": "culture",
+      "belief": "belief",
+      "flaw": "flaw",
+      "dream": "dream",
+      "abilities": [
+        { "name": "Wild Attack", "description": "", "cost": "", "damage": 0 },
+        { "name": "Counterattack", "description": "", "cost": "", "damage": 0 },
+        { "name": "Overpower", "description": "", "cost": "", "damage": 0 }
+      ],
+      "inventory": [
+        {
+          "name": "Light Trap",
+          "rarity": "common",
+          "damage": 0,
+          "cost": 1,
+          "aCost": 0,
+          "description": "A magic glass orb used like a camera."
+        },
+        {
+          "name": "Magic Potion",
+          "rarity": "common",
+          "damage": 0,
+          "cost": 1,
+          "aCost": 0,
+          "description": "A vial filled with magic liquid that has unpredictable effects."
+        },
+        {
+          "name": "Repeater",
+          "rarity": "common",
+          "damage": 0,
+          "cost": 1,
+          "aCost": 2,
+          "description": "A compact magic crossbow."
+        }
+      ],
       "AP": 10,
       "HP": 10
     }
