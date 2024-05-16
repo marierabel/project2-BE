@@ -2875,6 +2875,14 @@
       "cost": 0,
       "aCost": 0,
       "description": "A powerful candle that can light itself and snuff itself out on its owner's command. It drips wax but never seems to lose any."
+    },
+    {
+      "name": "None",
+      "rarity": "gear",
+      "damage": 0,
+      "cost": 0,
+      "aCost": 0,
+      "description": "I don't want any of these choices! I'll go alone, even if it's dangerous."
     }
   ]
 }
