@@ -1,12 +1,12 @@
 {
   "characters": [
     {
-      "id": "1",
-      "name": "Guillaume",
+      "id": 1,
+      "name": "plo",
       "surname": "",
       "age": 0,
       "height": 0,
-      "role": "Fighter",
+      "role": "Ranger",
       "qualities1": "",
       "qualities2": "",
       "qualities3": "",
@@ -18,10 +18,131 @@
       "belief": "",
       "flaw": "",
       "dream": "",
-      "abilities": ["Wild Attack", "Counterattack", "Overpower"],
-      "inventory": ["Lying Lyre", "Magic Potion", "Mischievous Marbles"],
-      "AP": 10,
-      "HP": 10
+      "abilities": [
+        "Folk Song",
+        "Speak Myth",
+        "Signal"
+      ],
+      "inventory": [
+        {
+          "name": "Kiln Gauze",
+          "rarity": "gear",
+          "damage": 0,
+          "cost": 1,
+          "aCost": 0,
+          "description": "A container of magic gauze used to repair broken metal weapons."
+        },
+        {
+          "name": "fvdvcdfvd",
+          "description": "dfdfd",
+          "rarity": "gear"
+        }
+      ],
+      "author": "op"
+    },
+    {
+      "id": 2,
+      "name": "edgdfg",
+      "surname": "",
+      "age": 0,
+      "height": 0,
+      "role": "Ranger",
+      "qualities1": "",
+      "qualities2": "",
+      "qualities3": "",
+      "accessories1": "",
+      "accessories2": "",
+      "move": "",
+      "origin": "",
+      "culture": "",
+      "belief": "",
+      "flaw": "",
+      "dream": "",
+      "abilities": [
+        "Speak Myth",
+        "Signal"
+      ],
+      "inventory": [
+        {
+          "name": "Lockpicks",
+          "rarity": "gear",
+          "damage": 0,
+          "cost": 0,
+          "aCost": 0,
+          "description": "A set of 5 lockpicks that can be used to try to bypass doors and other things with simple locks"
+        }
+      ],
+      "author": "ul"
+    },
+    {
+      "id": 3,
+      "name": "ddddd",
+      "surname": "",
+      "age": 0,
+      "height": 0,
+      "role": "Invoker",
+      "qualities1": "",
+      "qualities2": "",
+      "qualities3": "",
+      "accessories1": "",
+      "accessories2": "",
+      "move": "",
+      "origin": "",
+      "culture": "",
+      "belief": "",
+      "flaw": "",
+      "dream": "",
+      "abilities": [
+        "Petition",
+        "Invoke",
+        "Impression"
+      ],
+      "inventory": [
+        {
+          "name": "Magic Flask",
+          "rarity": "gear",
+          "damage": 0,
+          "cost": 0,
+          "aCost": 0,
+          "description": "A magic flask that automatically replenishes itself with spirit of your choice. (Choose once.)"
+        }
+      ],
+      "author": "d"
+    },
+    {
+      "id": 4,
+      "name": "dwdw",
+      "surname": "",
+      "age": 0,
+      "height": 0,
+      "role": "Invoker",
+      "qualities1": "",
+      "qualities2": "",
+      "qualities3": "",
+      "accessories1": "",
+      "accessories2": "",
+      "move": "",
+      "origin": "",
+      "culture": "",
+      "belief": "",
+      "flaw": "",
+      "dream": "",
+      "abilities": [
+        "Petition",
+        "Invoke",
+        "Impression"
+      ],
+      "inventory": [
+        {
+          "name": "Skycaller Amulets",
+          "rarity": "gear",
+          "damage": 0,
+          "cost": 1,
+          "aCost": 0,
+          "description": "Pairs of magic amulets that allow their owners to communicate with each other."
+        }
+      ],
+      "author": "billy"
     }
   ]
 }
