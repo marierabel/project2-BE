@@ -113,36 +113,24 @@
       "id": 4,
       "name": "dwdw",
       "surname": "",
-      "age": 0,
-      "height": 0,
-      "role": "Invoker",
-      "qualities1": "",
-      "qualities2": "",
-      "qualities3": "",
-      "accessories1": "",
-      "accessories2": "",
-      "move": "",
-      "origin": "",
-      "culture": "",
-      "belief": "",
-      "flaw": "",
-      "dream": "",
-      "abilities": [
-        "Petition",
-        "Invoke",
-        "Impression"
-      ],
-      "inventory": [
-        {
-          "name": "Skycaller Amulets",
-          "rarity": "gear",
-          "damage": 0,
-          "cost": 1,
-          "aCost": 0,
-          "description": "Pairs of magic amulets that allow their owners to communicate with each other."
-        }
-      ],
-      "author": "billy"
+      "age": 20,
+      "height": 200,
+      "role": "Fighter",
+      "qualities1": "Qualitie1",
+      "qualities2": "Qualitie2",
+      "qualities3": "Qualitie3",
+      "accessories1": "accessories1",
+      "accessories2": "accessories2",
+      "move": "move",
+      "origin": "origin",
+      "culture": "culture",
+      "belief": "belief",
+      "flaw": "flaw",
+      "dream": "dream",
+      "abilities": ["Wild Attack", "Counterattack", "Overpower"],
+      "inventory": ["Lying Lyre", "Magic Potion", "Mischievous Marbles"],
+      "AP": 10,
+      "HP": 10
     }
   ]
 }
